@@ -28,7 +28,7 @@ class gamma:public beta,public alpha{
     {
         m=c;
         n=d;
-        cout<<"gamma initialised\n";
+        cout<<"Gamma initialised\n";
     }
     void show3(){
         cout<<"m= "<<m;
